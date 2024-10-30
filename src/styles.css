@@ -96,4 +96,13 @@ body {
   
     color: rgba(39, 33, 66, 0.4);
   }
-  
+
+  @media (max-width: 768px) {
+
+    .search-button{
+
+      margin-top: 20px;
+
+    }
+    
+  }
